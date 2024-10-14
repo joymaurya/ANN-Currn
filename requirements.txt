@@ -1,0 +1,6 @@
+ipykernel
+numpy
+torch
+streamlit
+scikit-learn
+torchmetrics
